@@ -26,7 +26,7 @@ const Blog = async () => {
 
                 <div className={styles.imageContainer}>
                 <Image
-                  src={item.image}
+                  src={item.img}
                   alt=""
                   width={400}
                   height={250}
